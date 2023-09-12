@@ -31,7 +31,7 @@ In India, there are a lot of accidents taking place every day due to mishaps. As
 
 Clone the Repository
 ``` python
->>>  git clone https://github.com/shoaibrayeen/Accident-Prevention
+>>>  git clone https://github.com/Manikanta-Talluri-1542/Acceident-Prevention-Using_CV
 ```
 Install required libraries
 ``` python
@@ -59,6 +59,6 @@ Execute app file
 ## License
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
-**Copyright (c) 2019-Present Mohd Shoaib Rayeen**
+**Copyright (c) 2023 Manikanta-Talluri*
 
 This project is licensed under the MIT License - see the LICENSE file for details
